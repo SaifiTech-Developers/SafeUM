@@ -13,7 +13,7 @@ apt update && apt upgrade && pkg update && pkg upgrade && pkg install git && pkg
 
  ### Run Tool
 ````bash
-cd && clear && rm -rf SafeUM && git clone https://github.com/Tohidkhan6332/SafeUM && cd SafeUM && python Create.py
+cd && clear && rm -rf SafeUM && git clone https://github.com/SaifiTech-Developers/SafeUM && cd SafeUM && python Create.py
 ````
 
 
